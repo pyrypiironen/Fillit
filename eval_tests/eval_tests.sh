@@ -1,10 +1,3 @@
-make re
-make clean
-gcc -Wall -Wextra -Werror -o fillit *.c -L./libft/ -lft
-echo ""
-echo ""
-echo ""
-echo ""
 echo ""
 echo "FILLIT EVALUATION"
 echo ""
